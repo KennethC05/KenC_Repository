@@ -6,7 +6,7 @@ We regret to share that the course has already closed and is currently at capaci
 
 Please know this isn’t a reflection of your potential. At **CodePath**, we believe deeply in your ability to grow and succeed, and while we can’t offer a spot in the course this summer, we’d still love to support you in other ways.
 
-We highly recommend checking out our **[Software Interview Preparation Guide](https://codepath.org/technical-interview-guide)** a resource we created specifically to help students like you navigate the technical interview process with confidence.
+We highly recommend checking out our **[Software Interview Preparation Guide](https://hackmd.io/@nesquena/HJN9k17sm?type=view)** a resource we created specifically to help students like you navigate the technical interview process with confidence.
 
 Here’s what you’ll find inside:
 
